@@ -8,12 +8,12 @@ jobs:
     strategy:
       matrix:
         pyversion: ['3.10.12','3.11']
-    
+        postversion: ['14.9','15']
     runs-on: ubuntu-latest
 
     services:
       postgres:
-        image: postgres:14.9
+        image: postgres:${{matrix.postversion}}
         env:
           POSTGRES_USER: decide
           POSTGRES_PASSWORD: decide
