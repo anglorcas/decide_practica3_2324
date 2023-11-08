@@ -1,4 +1,9 @@
-Badge
+Codacy Badges
+=====================================
+Code Quality: [![Codacy Badge](https://app.codacy.com/project/badge/Grade/d21f4bb307d540abb77527dd6408bfea)](https://app.codacy.com/gh/anglorcas/decide_practica3_2324/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
+Coverage: [![Codacy Badge](https://app.codacy.com/project/badge/Coverage/d21f4bb307d540abb77527dd6408bfea)](https://app.codacy.com/gh/anglorcas/decide_practica3_2324/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_coverage)
+
+Workflow Badges
 =====================================
 Main: [![Python application](https://github.com/anglorcas/decide_practica3_2324/actions/workflows/django.yml/badge.svg?branch=main)](https://github.com/anglorcas/decide_practica3_2324/actions/workflows/django.yml)
 Test: [![Python application](https://github.com/anglorcas/decide_practica3_2324/actions/workflows/django.yml/badge.svg?branch=test)](https://github.com/anglorcas/decide_practica3_2324/actions/workflows/django.yml)
