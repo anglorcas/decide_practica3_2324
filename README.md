@@ -1,6 +1,7 @@
 Badge
 =====================================
-[![Python application](https://github.com/anglorcas/decide_practica3_2324/actions/workflows/django.yml/badge.svg)](https://github.com/anglorcas/decide_practica3_2324/actions/workflows/django.yml)
+Main: [![Python application](https://github.com/anglorcas/decide_practica3_2324/actions/workflows/django.yml/badge.svg?branch=main)](https://github.com/anglorcas/decide_practica3_2324/actions/workflows/django.yml)
+Test: [![Python application](https://github.com/anglorcas/decide_practica3_2324/actions/workflows/django.yml/badge.svg?branch=test)](https://github.com/anglorcas/decide_practica3_2324/actions/workflows/django.yml)
 
 
 Plataforma voto electrónico educativa
