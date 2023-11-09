@@ -1,7 +1,7 @@
 Codacy Badges
 =====================================
-Code Quality: [![Codacy Badge](https://app.codacy.com/project/badge/Grade/d21f4bb307d540abb77527dd6408bfea)](https://app.codacy.com/gh/anglorcas/decide_practica3_2324/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
-Coverage: [![Codacy Badge](https://app.codacy.com/project/badge/Coverage/d21f4bb307d540abb77527dd6408bfea)](https://app.codacy.com/gh/anglorcas/decide_practica3_2324/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_coverage)
+Code Quality: [![Codacy Badge](https://app.codacy.com/project/badge/Grade/85742780677b4c848e32facf05442643)](https://app.codacy.com/gh/anglorcas/decide/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
+Coverage: [![Codacy Badge](https://app.codacy.com/project/badge/Coverage/85742780677b4c848e32facf05442643)](https://app.codacy.com/gh/anglorcas/decide/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_coverage)
 
 Workflow Badges
 =====================================
