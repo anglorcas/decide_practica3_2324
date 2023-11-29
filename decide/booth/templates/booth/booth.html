@@ -14,7 +14,7 @@
     <!-- Navbar -->
     <nav class="navbar navbar-dark bg-primary">
         <div class="container-fluid">
-            <div class="navbar-brand" >Decide</div>
+            <div class="navbar-brand" >Decide-10-11</div>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
@@ -117,7 +117,7 @@
         <!-- Voting -->
         <div v-if="!signup">
             <h1> Por favor, vota: </h1>
-            <h1>[[ voting.id ]] - [[ voting.name ]]</h1>
+            <h1>[[ voting.id ]] - <span style="font-size: larger;">[[ voting.name ]]</span></h1>
             <h2>[[ voting.question.desc ]]</h2>
             <form v-for="opt in voting.question.options" :key="opt.number">
                 <div class="form-group">

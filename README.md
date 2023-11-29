@@ -193,6 +193,7 @@ Para poder votar primero debemos ingresar en la barra de direcciones de nuestro 
 ![Imagen 08: Booth](./resources/quickstart/07_booth.png)
 
 Una vez accedemos, debemos iniciar sesión con un usuario que esté incluido en el censo.
+Se amplio el tamaño de voting.name en booth
 
 Cuando nos aparezca la pregunta, ya podemos seleccionar la respuesta y guardarla como un voto. 
 Al confirmar el voto, nos aparecerá lo siguiente:
