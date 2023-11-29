@@ -37,6 +37,7 @@ pip-delete-this-directory.txt
 
 #gitlog
 logfile.txt
+logfile
 
 # Unit test / coverage reports
 htmlcov/
